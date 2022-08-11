@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ODSTest9</string>
+    <string name="title_activity_data_types">DataTypesActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="state">
+        <item>--Select State--</item>
+        <item>Andhra Pradesh</item>
+        <item>Telangana</item>
+        <item>Delhi</item>
+        <item>Others</item>
+    </string-array>
+</resources>
