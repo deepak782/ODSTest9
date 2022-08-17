@@ -12,6 +12,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ODSTest9">
         <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GoogleLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AuthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Auth3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Auth2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AddingActivity"
+            android:exported="false" />
+        <activity
             android:name=".ReadDataActivity"
             android:exported="false" />
         <activity
@@ -19,8 +37,7 @@
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
         <activity
             android:name=".SetDocActivity"
             android:exported="false" />
@@ -28,7 +45,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".AddingActivity"
+            android:name=".GoogleSigninActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

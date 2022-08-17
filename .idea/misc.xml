@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_adding.xml" value="0.2" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_auth.xml" value="0.22" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_auth2.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_auth3.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_data_types.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_google_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_google_signin.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_read_data.xml" value="0.19010416666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_set_doc.xml" value="0.20416666666666666" />
       </map>
