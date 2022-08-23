@@ -12,9 +12,13 @@
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_google_signin.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_photo_list.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_read_data.xml" value="0.19010416666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_security_rules_test.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_set_doc.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/activity_storage.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest9/app/src/main/res/layout/custom_photo.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

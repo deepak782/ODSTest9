@@ -8,9 +8,19 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ODSTest9">
+        <activity
+            android:name=".PhotoListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecurityRulesTest"
+            android:exported="false"></activity>
+        <activity
+            android:name=".GoogleSigninActivity"
+            android:exported="false" />
         <activity
             android:name=".ProfileActivity"
             android:exported="false" />
@@ -45,7 +55,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".GoogleSigninActivity"
+            android:name=".StorageActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
